@@ -10,6 +10,7 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Edit from second user.");
             Console.WriteLine("Hello World from Jim.");
             Console.WriteLine("Another branch made an edit.");
             Console.WriteLine("New line.");
