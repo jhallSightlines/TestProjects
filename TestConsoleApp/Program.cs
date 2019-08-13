@@ -14,6 +14,7 @@ namespace TestConsoleApp
             Console.WriteLine("Hello World from Jim.");
             Console.WriteLine("Another branch made an edit.");
             Console.WriteLine("New line.");
+            Console.WriteLine("A new line that the feature doesn't have.");
             Console.ReadLine();
         }
     }
