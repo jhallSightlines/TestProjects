@@ -10,12 +10,16 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Edit from second user.");
+            Console.WriteLine("Edit from first user.");
             Console.WriteLine("Hello World from Jim.");
             Console.WriteLine("Another branch made an edit.");
             Console.WriteLine("New line.");
             Console.WriteLine("A new line that the feature doesn't have.");
             Console.ReadLine();
         }
+		
+		static void newMethod()
+        {
+		}
     }
 }
